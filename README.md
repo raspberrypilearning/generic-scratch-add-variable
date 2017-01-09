@@ -1,1 +1,2 @@
-# scratch-add-variable
+# scratch-add-variable 
+Some readme content
