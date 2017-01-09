@@ -1,2 +1,2 @@
-# scratch-add-variable 
-Some readme content
+# Add a variable in Scratch
+Learn how to add a variable
