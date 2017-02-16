@@ -2,4 +2,8 @@ title: Add a variable in Scratch
 hero_image: images/banner.png
 subtitle: Learn how to add a variable
 description: Add a variable in Scratch
-published: 'false'
+published: false
+
+steps:
+  - title: Step one
+    duration: 25
