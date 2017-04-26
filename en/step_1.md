@@ -1,4 +1,4 @@
-### Add a variable
+### Creating a new Scratch variable
 
 A variable is a named place to store data. Variables are really useful for storing all sorts of things, for example each player's score in a game, the speed of an object or how many lives a player has left.
 
