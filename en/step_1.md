@@ -1,5 +1,3 @@
-### Add a variable
-
 + Click on "Data" in the scripts tab then click on "Make a variable"
 
   ![Data blocks](images/data-blocks.png)
