@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-### Creating a new Scratch variable
-
-+ Click on "Data" in the scripts tab then click on "Make a variable"
-=======
 + Click on "Data" in the Scripts tab, then click on "Make a Variable"
->>>>>>> draft
 
   ![Data blocks](images/data-blocks.png)
 
