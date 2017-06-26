@@ -1,4 +1,4 @@
-+ Click on "Data" in the scripts tab then click on "Make a variable"
++ Click on "Data" in the Scripts tab, then click on "Make a Variable"
 
   ![Data blocks](images/data-blocks.png)
 
@@ -6,10 +6,10 @@
 
   ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable it will be displayed on the stage, or you can untick the variable in the scripts tab to hide it.
++ Once you have created the variable, it will be displayed on the stage, or you can untick the variable in the Scripts tab to hide it.
 
   ![Variable blocks](images/variable-show.png)
 
-+ New blocks will appear to allow you to change the value of the variable.
++ New blocks will appear and allow you to change the value of the variable.
 
   ![Variable blocks](images/variable-blocks.png)
