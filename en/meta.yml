@@ -1,9 +1,12 @@
 title: Add a variable in Scratch
 hero_image: images/banner.png
-subtitle: Learn how to add a variable
-description: Add a variable in Scratch
-published: false
-
+description: How to add a variable in Scratch
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+interests: ""
+technologies: ""
 steps:
-  - title: Step one
-    duration: 25
+  - title: Create a variable
