@@ -1,2 +1,2 @@
 # Add a variable in Scratch
-Learn how to add a variable
+Learn how to add a variable.
