@@ -1,15 +1,15 @@
-+ Klicken Sie auf | 123_8_0_321 | Daten | 123_9_1_321 | Klicken Sie auf der Registerkarte Skripte auf | 123_8_2_321 | Eine Variable erstellen | 123_9_3_321 |.
++ Klicke auf **Daten** im Register Scripte, klicke dann auf **Neue Variable**.
     
-    ![Datenblöcke](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Geben Sie den Namen Ihrer Variablen ein. Sie können auswählen, ob Ihre Variable für alle Sprites oder nur für dieses Sprite verfügbar sein soll. Drücken Sie | 123_8_0_321 | OK | 123_9_1_321 |.
++ Gib den Namen deiner Variablen ein. Du kannst auswählen, ob deine Variable für alle Figuren, oder nur für die ausgewählte Figur verfügbar sein soll. Klicke auf **OK**.
     
-    ![Variable erstellen](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Nachdem Sie die Variable erstellt haben, wird sie auf der Bühne angezeigt, oder Sie können die Variable auf der Registerkarte Skripts deaktivieren, um sie auszublenden.
++ Nachdem du die Variable erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Variablen in der Registerkarte Skripte entfernst.
     
-    ![Variable Blöcke](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Neue Blöcke erscheinen und erlauben Ihnen, den Wert der Variablen zu ändern.
++ Neue Blöcke erscheinen und erlauben dir, den Wert der Variablen zu ändern.
     
-    ![Variable Blöcke](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
