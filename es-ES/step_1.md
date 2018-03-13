@@ -1,8 +1,8 @@
-+ Haga clic en | 123_8_0_321 | Datos | 123_9_1_321 | en la pestaña Scripts, luego haga clic en | 123_8_2_321 | Make a Variable | 123_9_3_321 |.
++ Haga clic en **Datos** en la pestaña Scripts, luego haga clic en **Crear una Variable**.
     
     ![Bloques de datos](images/data-blocks.png)
 
-+ Escriba el nombre de su variable. Puedes elegir si deseas que tu variable esté disponible para todos los sprites o solo para este sprite. Presione | 123_8_0_321 | OK | 123_9_1_321 |.
++ Escriba el nombre de su variable. Puedes elegir si deseas que tu variable esté disponible para todos los sprites o solo para este sprite. Presione **OK**.
     
     ![Crear variable](images/create-variable.png)
 
@@ -10,6 +10,6 @@
     
     ![Bloques variables](images/variable-show.png)
 
-+ Aparecerán nuevos bloques y le permitirán cambiar el valor de la variable.
++ Aparecerán nuevos bloques y te permitirán cambiar el valor de la variable.
     
     ![Bloques variables](images/variable-blocks.png)
