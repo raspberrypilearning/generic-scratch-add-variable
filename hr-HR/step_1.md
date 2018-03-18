@@ -1,15 +1,15 @@
 + Kliknite na **Podaci** na kartici Skripte, a zatim kliknite na **Napravi varijablu**.
     
-    ![Blokovi podataka](images/data-blocks.png)
+    ![Grupa podaci](images/data-blocks.png)
 
-+ Unesite naziv svoje varijable. Možete odabrati želite li da varijabla bude dostupna svim spritesima ili samo tom spriteu. Pritisnite **OK**.
++ Unesi naziv varijable. Možeš odabrati želiš li da varijabla bude dostupna svim likovima ili samo ovom liku. Pritisni **OK**.
     
-    ![Izradi varijablu](images/create-variable.png)
+    ![Napravi varijablu](images/create-variable.png)
 
-+ Nakon što stvorite varijablu, ona će biti prikazana na Stage ili možete odstraniti varijablu na kartici Skripte da biste je sakrili.
++ Nakon što stvoriš varijablu, bit će prikazana na pozornici. Možeš maknuti kvačicu kraj varijable na kartici Skripte da bi je sakrio.
     
     ![Varijable blokovi](images/variable-show.png)
 
-+ Prikazat će se novi blokovi i dopustiti vam da promijenite vrijednost varijable.
++ Prikazat će se novi blokovi i dopustiti ti da promijeniš vrijednost varijable.
     
     ![Varijable blokovi](images/variable-blocks.png)
