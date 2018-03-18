@@ -1,9 +1,9 @@
 ---
-title: Dodajte varijablu u Scratch
-hero_image: slike / banner.png
+title: Dodaj varijablu u Scratch
+hero_image: images/banner.png
 description: Kako dodati varijablu u Scratch
 original_url: ""
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 curriculum: ""
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Stvorite varijablu
+    title: Stvori varijablu
