@@ -1,4 +1,4 @@
-+ Kliknite na **Podaci** na kartici Skripta, a zatim kliknite na **Napravite varijablu**.
++ Kliknite na **Podaci** na kartici Skripte, a zatim kliknite na **Napravi varijablu**.
     
     ![Blokovi podataka](images/data-blocks.png)
 
