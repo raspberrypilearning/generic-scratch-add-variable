@@ -1,8 +1,8 @@
-+ Faceți clic pe **Data** din fila Scripturi, apoi faceți clic pe **Faceți o variabilă**.
++ Faceți clic pe **Date** din fila Scripturi, apoi faceți clic pe **Creează o Variabilă**.
     
     ![Blocuri de date](images/data-blocks.png)
 
-+ Introduceți numele variabilei dvs. Puteți alege dacă doriți ca variabila dvs. să fie disponibilă pentru toate spritele sau doar pentru această sprite. Apăsați **OK**.
++ Introduceți numele variabilei dvs. Puteți alege dacă doriți ca variabila dvs. să fie disponibilă pentru toate personajele sau doar pentru acest personaj. Apăsați **OK**.
     
     ![Creați o variabilă](images/create-variable.png)
 
