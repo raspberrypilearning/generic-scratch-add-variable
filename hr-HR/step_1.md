@@ -1,15 +1,15 @@
-+ Kliknite na **Podaci** na kartici Skripte, a zatim kliknite na **Napravi varijablu**.
++ Kliknite na **Podaci** na kartici Skripte, a zatim na **Napravi varijablu**.
     
-    ![Grupa podaci](images/data-blocks.png)
+    ![Blokovi podataka](images/data-blocks.png)
 
 + Unesi naziv varijable. Možeš odabrati želiš li da varijabla bude dostupna svim likovima ili samo ovom liku. Pritisni **OK**.
     
-    ![Napravi varijablu](images/create-variable.png)
+    ![Definiraj varijablu](images/create-variable.png)
 
-+ Nakon što stvoriš varijablu, bit će prikazana na pozornici. Možeš maknuti kvačicu kraj varijable na kartici Skripte da bi je sakrio.
++ Nakon što napraviš varijablu, bit će prikazana na Pozornici. Možeš maknuti kvačicu kraj varijable na kartici Skripte da bi ju sakrio.
     
-    ![Varijable blokovi](images/variable-show.png)
+    ![Blokovi varijabli](images/variable-show.png)
 
-+ Prikazat će se novi blokovi i dopustiti ti da promijeniš vrijednost varijable.
++ Prikazat će se novi blokovi pomoću kojih možeš promijeniti vrijednost varijable.
     
-    ![Varijable blokovi](images/variable-blocks.png)
+    ![Blokovi varijabli](images/variable-blocks.png)
