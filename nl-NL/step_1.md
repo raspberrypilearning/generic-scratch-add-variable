@@ -6,10 +6,10 @@
     
     ![Create variable](images/create-variable.png)
 
-+ Nadat je de variabele hebt gemaakt, wordt deze in het werkgebied weergegeven of je kunt de variabele in het tabblad Scripts deactiveren om deze te verbergen.
++ Nadat je de variabele hebt gemaakt, wordt die in het werkgebied weergegeven, maar je kunt de variabele in het tabblad Scripts ook uitvinken om hem te verbergen.
     
     ![Variable blocks](images/variable-show.png)
 
-+ Er verschijnen nieuwe blokken en je kunt de waarde van de variabele wijzigen.
++ Er verschijnen nieuwe blokken waarmee je de waarde van de variabele kunt wijzigen.
     
     ![Variable blocks](images/variable-blocks.png)
