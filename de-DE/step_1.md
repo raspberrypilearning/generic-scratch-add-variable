@@ -1,4 +1,4 @@
-+ Klicke auf **Daten** im Register Scripte, klicke dann auf **Neue Variable**.
++ Klicke auf **Daten** in der Registerkarte Skripte, klicke dann auf **Neue Variable**.
     
     ![Data blocks](images/data-blocks.png)
 
