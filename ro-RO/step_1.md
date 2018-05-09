@@ -1,4 +1,4 @@
-+ Faceți clic pe **Date** din fila Scripturi, apoi faceți clic pe **Creează o Variabilă**.
++ Faceți clic pe **Date** din tab-ul Scripturi, apoi faceți clic pe **Creează o Variabilă**.
     
     ![Blocuri de date](images/data-blocks.png)
 
@@ -6,10 +6,10 @@
     
     ![Creați o variabilă](images/create-variable.png)
 
-+ Odată ce ați creat variabila, aceasta va fi afișată pe Scenă, sau puteți deselecta variabila din fila Scripturi pentru a o ascunde.
++ Odată ce ați creat variabila, aceasta va fi afișată pe Scenă, sau puteți deselecta variabila din tab-ul Scripturi pentru a o ascunde.
     
-    ![Blocuri variabile](images/variable-show.png)
+    ![Blocuri de variabile](images/variable-show.png)
 
 + Vor apărea blocuri noi care vă vor permite să modificați valoarea variabilei.
     
-    ![Blocuri variabile](images/variable-blocks.png)
+    ![Blocuri de variabile](images/variable-blocks.png)
