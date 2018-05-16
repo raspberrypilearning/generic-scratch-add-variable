@@ -1,11 +1,11 @@
 ---
 title: スクラッチに変数を追加する
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: スクラッチに変数を追加する方法
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
