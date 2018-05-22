@@ -2,10 +2,10 @@
 title: 스크래치에 변수 추가
 hero_image: images / banner.png
 description: 스크래치에 변수를 추가하는 방법
-original_url: ""
+original_url:
 theme: cc-prototype
 duration: 1
-curriculum: ""
+curriculum:
 listed: false
 ingredient: true
 copyedit: true
