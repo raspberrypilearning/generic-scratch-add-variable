@@ -8,7 +8,7 @@
 
 + Setelah Kamu membuat variabel, variabel tersebut akan ditampilkan di Stage, atau Kamu dapat menghapus centang variabel di tab Skrip untuk menyembunyikannya.
     
-    ![Blok variabel](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
 + Blok baru akan muncul dan memungkinkan Kamu untuk mengubah nilai variabel.
     
