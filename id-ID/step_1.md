@@ -12,4 +12,4 @@
 
 + Blok baru akan muncul dan memungkinkan Kamu untuk mengubah nilai variabel.
     
-    ![Blok variabel](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
