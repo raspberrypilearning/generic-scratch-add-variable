@@ -1,12 +1,12 @@
-+ Klik **Data** pada tab Skrip, lalu klik **Buat sebuah Variabel**.
++ Klik **Data** pada tab Scripts, lalu klik **Buat sebuah Variabel**.
     
-    ![Blok data](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
 + Ketik nama variabel Kamu. Kamu dapat memilih apakah Kamu ingin variabel Kamu tersedia untuk semua sprite, atau hanya sprite ini saja. Tekan **OK**.
     
     ![Buat variabel](images/create-variable.png)
 
-+ Setelah Kamu membuat variabel, variabel tersebut akan ditampilkan di Stage, atau Kamu dapat menghapus centang variabel di tab Skrip untuk menyembunyikannya.
++ Setelah Kamu membuat variabel, variabel tersebut akan ditampilkan di Stage, atau Kamu dapat menghapus centang variabel di tab Scripts untuk menyembunyikannya.
     
     ![Variable blocks](images/variable-show.png)
 
