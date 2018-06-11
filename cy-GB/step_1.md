@@ -2,11 +2,11 @@
     
     ![Blociau data](images/data-blocks.png)
 
-+ Teipiwch enw eich newidyn. Gallwch ddewis p'un a hoffech i'ch newidyn fod ar gael i bob sprites, neu at y ffynhonnell hon yn unig. Gwasgwch **OK**.
++ Rhowch enw ar eich newidyn. Gallwch ddewis p'un a hoffech i'ch newidyn fod ar gael i bob ciplun, neu'r ciplun hwn yn unig. Cliciwch **Iawn**.
     
     ![Creu newidyn](images/create-variable.png)
 
-+ Unwaith y byddwch wedi creu'r newidyn, bydd yn cael ei arddangos ar y Cyfnod, neu gallwch ddatgymalu'r newidyn yn y tab Sgriptiau i'w guddio.
++ Ar ôl i chi greu'r newidyn, bydd yn ymddangos ar y Llwyfan, neu gallwch ddileu tic y newidyn yn y tab Sgriptiau i'w guddio.
     
     ![Blociau amrywiol](images/variable-show.png)
 
