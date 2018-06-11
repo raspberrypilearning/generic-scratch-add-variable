@@ -1,4 +1,4 @@
-+ Cliciwch ar **Data** yn y tab Sgriptiau, yna cliciwch ar **Gwneud Amrywiad**.
++ Cliciwch ar **Data** yn y tab Sgriptiau, yna cliciwch ar **Creu Newidyn**.
     
     ![Blociau data](images/data-blocks.png)
 
