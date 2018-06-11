@@ -10,6 +10,6 @@
     
     ![Blociau amrywiol](images/variable-show.png)
 
-+ Bydd blociau newydd yn ymddangos ac yn caniatáu ichi newid gwerth y newidyn.
++ Bydd blociau newydd yn ymddangos ac yn gadael i chi newid gwerth y newidyn.
     
     ![Blociau amrywiol](images/variable-blocks.png)
