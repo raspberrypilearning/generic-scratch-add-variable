@@ -1,4 +1,4 @@
-+ Cliquez sur **Données** dans l'onglet Scripts, cliquez sur **Créer une variable**.
++ Clique sur **Données** dans l'onglet Scripts puis clique sur **Créer une variable**.
     
     ![Blocs de données](images/data-blocks.png)
 
