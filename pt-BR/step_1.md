@@ -1,8 +1,8 @@
-+ Clique em **Dados** na guia Scripts e, em seguida, clique em **. Faça uma Variável**.
++ Clique em **Variáveis** na aba Scripts e, em seguida, clique em **. Criar uma variável**.
     
     ![Blocos de dados](images/data-blocks.png)
 
-+ Digite o nome da sua variável. Você pode escolher se deseja que sua variável esteja disponível para todos os sprites ou apenas este sprite. Pressione **OK**.
++ Digite o nome da sua variável. Você pode escolher se deseja que sua variável esteja disponível para todos os atores ou apenas este ator. Pressione **OK**.
     
     ![Criar variável](images/create-variable.png)
 
