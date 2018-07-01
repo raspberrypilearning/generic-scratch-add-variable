@@ -6,7 +6,7 @@
     
     ![Criar variável](images/create-variable.png)
 
-+ Depois de criar a variável, ela será exibida no Palco, ou você pode desmarcar a variável na guia Scripts para ocultá-la.
++ Depois de criar a variável, ela será exibida no Palco, ou você pode desmarcar a variável na aba Scripts para ocultá-la.
     
     ![Blocos variáveis](images/variable-show.png)
 
