@@ -1,7 +1,7 @@
 ---
 title: स्क्रैच में वेरिएबल जोड़ें
 hero_image: images/banner.png
-description: स्क्रैच में एक वैरिएबल कैसे जोड़ें
+description: स्क्रैच में कैसे वैरिएबल जोड़ें
 original_url:
 theme: cc-प्रोटोटाइप
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: एक चर बनाएँ
+    title: वेरिएबल बनाएँ
