@@ -1,7 +1,7 @@
 ---
-title: إضافة متغير في Scratch
+title: Adicione uma variável no Scratch
 hero_image: images/banner.png
-description: كيفية إضافة متغير في Scratch
+description: Como adicionar uma variável no Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ copyedit: true
 interests: ""
 technologies: ""
 steps:
-  - title: إنشاء متغير
+  - title: Criar uma variável
