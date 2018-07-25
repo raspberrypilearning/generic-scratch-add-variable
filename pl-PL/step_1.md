@@ -8,8 +8,8 @@
 
 + Po utworzeniu zmiennej zostanie ona wyświetlona na stole montażowym lub można ją odznaczać na karcie Skrypty, aby ją ukryć.
     
-    ![Zmienne bloki](images/variable-show.png)
+    ![Bloki zmiennej](images/variable-show.png)
 
 + Pojawią się nowe bloki i pozwoli zmienić wartość zmiennej.
     
-    ![Zmienne bloki](images/variable-blocks.png)
+    ![Bloki zmiennej](images/variable-blocks.png)
