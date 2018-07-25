@@ -6,7 +6,7 @@
     
     ![Utwórz zmienną](images/create-variable.png)
 
-+ Po utworzeniu zmiennej zostanie ona wyświetlona na stole montażowym lub można ją odznaczać na karcie Skrypty, aby ją ukryć.
++ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie, możesz ją odznaczać na karcie Skrypty, aby ją ukryć.
     
     ![Bloki zmiennej](images/variable-show.png)
 
