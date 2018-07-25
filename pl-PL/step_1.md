@@ -2,7 +2,7 @@
     
     ![Bloki danych](images/data-blocks.png)
 
-+ Wpisz nazwę swojej zmiennej. Możesz wybrać, czy chcesz, aby zmienna była dostępna dla wszystkich duszków, czy tylko dla tego sprite'a. Naciśnij **OK**.
++ Wpisz nazwę swojej zmiennej. Możesz wybrać, czy chcesz, aby zmienna była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Naciśnij **OK**.
     
     ![Utwórz zmienną](images/create-variable.png)
 
