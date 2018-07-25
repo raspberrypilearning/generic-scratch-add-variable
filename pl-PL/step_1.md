@@ -10,6 +10,6 @@
     
     ![Bloki zmiennej](images/variable-show.png)
 
-+ Pojawią się nowe bloki i pozwoli zmienić wartość zmiennej.
++ Pojawią się nowe bloki i pozwolą ci zmienić wartość zmiennej.
     
     ![Bloki zmiennej](images/variable-blocks.png)
