@@ -1,9 +1,9 @@
 ---
-title: স্ক্র্যাচ একটি পরিবর্তনশীল যোগ করুন
-hero_image: ইমেজ / banner.png
-description: কিভাবে স্ক্র্যাচ একটি পরিবর্তনশীল যোগ করতে
+title: স্ক্র্যাচে একটি ভেরিয়েবল যোগ করুন
+hero_image: images/banner.png
+description: কিভাবে স্ক্র্যাচে একটি ভেরিয়েবল যোগ করতে হয়
 original_url:
-theme: CC-প্রোটোটাইপ
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: একটি পরিবর্তনশীল তৈরি করুন
+    title: একটি ভেরিয়েবল তৈরি করুন
