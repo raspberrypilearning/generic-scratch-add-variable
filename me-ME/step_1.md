@@ -1,8 +1,8 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Klikni na **Data** (Podaci) na kartici Scripts (Skripte), a zatim klikni na **Make a Variable** (Napravi promjenljivu).
     
     ![Data blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Upiši naziv svoje promjenljive. Možeš da izabereš da li želiš da tvoja promjenljiva bude dostupna svim likovima ili samo ovom liku. Pritisni **OK**.
     
     ![Create variable](images/create-variable.png)
 
