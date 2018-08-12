@@ -6,7 +6,7 @@
     
     ![Napravi promjenljivu](images/create-variable.png)
 
-+ Kada napraviš promjenljivu, ona će se prikazati na Pozornici. Možeš da sakriješ promjenljivu tako što ćeš maći kvačicu pored promjenljive na kartici Scripts.
++ Kada napraviš promjenljivu, biće prikazana na Pozornici. Možeš maći kvačicu pored promjenljive na kartici Scripts da je sakriješ.
     
     ![Blokovi promjenljive](images/variable-show.png)
 
