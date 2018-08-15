@@ -6,10 +6,10 @@
     
     ![Utwórz zmienną](images/create-variable.png)
 
-+ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie, możesz ją odznaczać na karcie Skrypty, aby ją ukryć.
++ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
     
     ![Bloki zmiennej](images/variable-show.png)
 
-+ Pojawią się nowe bloki i pozwolą ci zmienić wartość zmiennej.
++ Nowe bloki pojawią się i pozwolają ci zmienić wartość zmiennej.
     
     ![Bloki zmiennej](images/variable-blocks.png)
