@@ -1,14 +1,15 @@
-title: Scratch में वेरिएबल शामिल करें
+---
+title: स्क्रैच में वेरिएबल जोड़ें
 hero_image: images/banner.png
-description: Scratch में वेरिएबल कैसे शामिल करें
+description: स्क्रैच में कैसे वैरिएबल जोड़ें
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 curriculum:
 listed: false
 ingredient: true
 copyedit: true
-interests: “"
-technologies: “"
+interests: ""
+technologies: ""
 steps:
   - title: वेरिएबल बनाएँ
