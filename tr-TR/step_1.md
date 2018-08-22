@@ -1,15 +1,15 @@
-+ Komut Dosyası sekmesindeki **Veri** üzerine tıklayın, ardından **Değişken**Yap seçeneğine tıklayın.
++ Diziler sekmesindeki **Veri**'nin üzerine tıklayın, ardından **Bir Değişken Oluştur** seçeneğine tıklayın.
     
-    ![Veri blokları](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Değişkeninizin adını yazın. Değişkeninizin tüm spritelar için mi yoksa sadece bu sprite mı sahip olacağını seçebilirsiniz. **OK**tuşuna basın.
++ Değişkeninizin adını yazın. Değişkeninizin tüm kuklalar için mi yoksa sadece bu kukla için mi olacağını seçebilirsiniz. **Tamam** tuşuna basın.
     
-    ![Değişken oluştur](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Değişkeni oluşturduktan sonra, Sahne Alanı'nda görüntülenecek ya da saklamak için Scripts sekmesindeki değişkeni kaldıramazsınız.
++ Değişkeni oluşturduktan sonra, Sahne'de gözükecek ya da gözükmesini engellemek için Diziler sekmesinden değişkenin yan tarafındaki tiki kaldırabilirsiniz.
     
-    ![Değişken bloklar](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Yeni bloklar görünecek ve değişkenin değerini değiştirmenize izin verecektir.
++ Yeni bloklar gözükecek ve değişkenin değerini değiştirmenize izin verecektir.
     
-    ![Değişken bloklar](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
