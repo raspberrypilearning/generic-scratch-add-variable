@@ -1,15 +1,15 @@
-+ A Scripts fülön kattintson a **Data** elemre, majd kattintson a **Make a variable**elemre.
++ A Feladatok fülön kattints a **Data** elemre, majd kattints a **Változó létrehozása** gombra.
     
     ![Adatblokkok](images/data-blocks.png)
 
-+ Írja be a változó nevét. Kiválaszthatja, hogy a változó elérhető-e minden sprithez, vagy csak ez a sprite. Nyomja meg a **OK gombot**.
++ Írd be a változó nevét. Kiválaszthatod, hogy a változó elérhető legyen-e minden szereplőnél, vagy csak ennél a szereplőnél. Nyomd meg az **OK** gombot.
     
     ![Változó létrehozása](images/create-variable.png)
 
-+ Miután létrehozta a változót, megjelenik a Stage, vagy eltávolíthatja a változót a Szkriptek fülön, hogy elrejtse.
++ Miután létrehoztad a változót, megjelenik a színpadon, de el is rejtheted a változót a Feladatok fülön a jelölőnégyzettel.
     
     ![Változó blokkok](images/variable-show.png)
 
-+ Új blokkok jelennek meg, és lehetővé teszik a változó értékének megváltoztatását.
++ Új blokkok jelennek meg, amelyekkel megváltoztathatod a változó értékét.
     
     ![Változó blokkok](images/variable-blocks.png)
