@@ -1,9 +1,9 @@
 ---
 title: Adjon hozzá egy változót a Scratch-ban
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Hogyan lehet hozzáadni egy változót a Scratch-ban?
 original_url:
-theme: cc-prototípus
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Hozzon létre egy változót
+    title: Hozz létre egy változót
