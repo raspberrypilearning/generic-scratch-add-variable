@@ -6,7 +6,7 @@
     
     ![Változó létrehozása](images/create-variable.png)
 
-+ Miután létrehoztad a változót, megjelenik a színpadon, de el is rejtheted a változót a Feladatok fülön a jelölőnégyzettel.
++ Miután létrehoztad a változót, megjelenik a játéktéren, de el is rejtheted a változót a Feladatok fülön a jelölőnégyzettel.
     
     ![Változó blokkok](images/variable-show.png)
 
