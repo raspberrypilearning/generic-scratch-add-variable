@@ -1,4 +1,4 @@
-+ A Feladatok fülön kattints a **Data** elemre, majd kattints a **Változó létrehozása** gombra.
++ A Feladatok fülön kattints az **Adatok** elemre, majd kattints a **Változó létrehozása** gombra.
     
     ![Adatblokkok](images/data-blocks.png)
 
