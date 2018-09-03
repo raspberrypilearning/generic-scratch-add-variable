@@ -1,4 +1,4 @@
-+ Klik på **Data** i fanen Scripts, og klik derefter på **Lav en variabel**.
++ Klik på **Data** i fanen Scripts og klik derefter på **Lav en variabel**.
     
     ![Datablokke](images/data-blocks.png)
 
@@ -8,8 +8,8 @@
 
 + Når du har oprettet variablen, vises den på scenen, eller du kan afmarkere variablen på fanen Scripts for at skjule den.
     
-    ![Variable blokke](images/variable-show.png)
+    ![Variable-blokke](images/variable-show.png)
 
 + Nye blokke vises og giver dig mulighed for at ændre værdien af ​​variablen.
     
-    ![Variable blokke](images/variable-blocks.png)
+    ![Variable-blokke](images/variable-blocks.png)
