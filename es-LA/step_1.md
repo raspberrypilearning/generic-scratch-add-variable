@@ -6,7 +6,7 @@
     
     ![Crear Variable](images/create-variable.png)
 
-+ Una vez creada la variable se mostrará en el escenario, o puedes desmarcar la variable en la pestaña Programas para ocultarla.
++ Una vez creada la variable se mostrará en el Escenario, o puedes desmarcar la variable en la pestaña Programas para ocultarla.
     
     ![Bloques de Variables](images/variable-show.png)
 
