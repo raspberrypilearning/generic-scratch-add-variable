@@ -2,11 +2,11 @@
     
     ![Data blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Escribe el nombre de tu variable. Puedes escoger si te gustaría que tu variable esté disponible para todos los objetos, o sólo para este objeto. Presiona **OK**.
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ Una vez creada la variable se mostrará en el escenario, o puedes desmarcar la variable en la pestaña Programas para ocultarla.
     
     ![Variable blocks](images/variable-show.png)
 
