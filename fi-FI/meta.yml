@@ -1,9 +1,9 @@
 ---
-title: Lisää muuttuja tyhjäksi
-hero_image: Kuvien / banner.png
-description: Muuttujan lisääminen Scratchiin
+title: Lisää muuttuja Scratchissa
+hero_image: images/banner.png
+description: Muuttujan lisääminen Scratchissa
 original_url:
-theme: CC-prototyyppi
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
