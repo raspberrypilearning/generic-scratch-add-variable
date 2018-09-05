@@ -10,6 +10,6 @@
     
     ![Variable blocks](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Aparecerán nuevos bloques y podrás cambiar el valor de la variable.
     
     ![Variable blocks](images/variable-blocks.png)
