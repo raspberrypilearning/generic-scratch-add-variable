@@ -1,9 +1,9 @@
 ---
-title: Додајте променљиву у Сцратцх
-hero_image: имагес / баннер.пнг
-description: Како додати варијаблу у Сцратцх
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: цц-прототип
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Направите варијаблу
+    title: Create a variable
