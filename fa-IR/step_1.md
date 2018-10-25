@@ -1,15 +1,15 @@
-+ بر روی **Data** در برگه اسکریپت کلیک کنید، سپس روی **روی** متغیر کلیک کنید.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![بلوک های داده](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ نام متغیر خود را تایپ کنید. شما می توانید انتخاب کنید که آیا شما می خواهم متغیر خود را در دسترس به تمام راهنماها، و یا فقط به این جنبش. **OK** را فشار دهید.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![ایجاد متغیر](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ هنگامی که متغیر را ایجاد کرده اید، آن را در مرحله نمایش داده می شود، یا شما می توانید متغیر را در برگه اسکریپت ها را غیرفعال کنید تا آن را پنهان کنید.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![بلوک های متغیر](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ بلوک های جدید نمایش داده می شود و به شما امکان می دهد که مقدار متغیر را تغییر دهید.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![بلوک های متغیر](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
