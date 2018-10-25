@@ -1,9 +1,9 @@
 ---
-title: Thêm biến trong Scratch
-hero_image: images / banner.png
-description: Cách thêm biến trong Scratch
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: nguyên mẫu cc
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Tạo biến
+    title: Create a variable
