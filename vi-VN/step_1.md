@@ -1,15 +1,15 @@
-+ Nhấp vào **Dữ liệu** trong tab Tập lệnh, sau đó nhấp vào **Thực hiện biến số**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Khối dữ liệu](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Nhập tên biến của bạn. Bạn có thể chọn liệu bạn có muốn biến của mình có sẵn cho tất cả các sprites hay chỉ với sprite này. Nhấn **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Tạo biến](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Một khi bạn đã tạo biến, nó sẽ được hiển thị trên Stage, hoặc bạn có thể untick biến trong tab Scripts để ẩn nó.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Các khối biến](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Các khối mới sẽ xuất hiện và cho phép bạn thay đổi giá trị của biến.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Các khối biến](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
