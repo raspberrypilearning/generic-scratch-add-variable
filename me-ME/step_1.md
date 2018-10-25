@@ -1,15 +1,15 @@
-+ Klikni na **Data** (Podaci) na kartici Scripts (Skripte), a zatim klikni na **Make a Variable** (Napravi promjenljivu).
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Blokovi podataka](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Upiši naziv svoje promjenljive. Možeš da izabereš da li želiš da tvoja promjenljiva bude dostupna svim likovima ili samo ovom liku. Pritisni **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Napravi promjenljivu](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Kada napraviš promjenljivu, ona će se prikazati na Pozornici. Možeš maći kvačicu pored promjenljive na kartici Scripts da je sakriješ.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Blokovi promjenljive](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Pojaviće se novi blokovi koji će ti omogućiti da mijenjaš vrijednost promjenljive.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Blokovi promjenljive](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
