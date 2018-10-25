@@ -1,9 +1,9 @@
 ---
-title: הוסף משתנה ב- Scratch
+title: Add a variable in Scratch
 hero_image: images/banner.png
-description: כיצד להוסיף משתנה ב- Scratch
+description: How to add a variable in Scratch
 original_url:
-theme: אב טיפוס
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: צור משתנה
+    title: Create a variable
