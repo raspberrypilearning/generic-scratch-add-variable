@@ -1,7 +1,7 @@
 ---
-title: Ajouter une variable dans Scratch
-hero_image: images / banner.png
-description: Comment ajouter une variable dans Scratch
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Créer une variable
+    title: Create a variable
