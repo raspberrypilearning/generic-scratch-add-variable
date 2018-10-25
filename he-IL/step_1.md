@@ -1,15 +1,15 @@
-+ לחץ על **נתונים** בכרטיסיית הסקריפטים, ולאחר מכן לחץ על **צור משתנה**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![בלוקי נתונים](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ הקלד את שם המשתנה שלך. אתה יכול לבחור אם אתה רוצה שהמשתנה שלך יהיה זמין לכל הדמויות, או רק לדמות זו. לחץ על **אישור**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![צור משתנה](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ לאחר שיצרת את המשתנה, הוא יוצג על הבמה, או שאתה יכול לבטל את הסימון בכרטיסיית הסקריפטים כדי להסתיר את זה.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![בלוקים משתנים](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ בלוקים חדשים יופיעו כדי לאפשר לך לשנות את הערך של המשתנה.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![בלוקים משתנים](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
