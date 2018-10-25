@@ -1,15 +1,15 @@
-+ 點擊腳本標籤中的 **數據** ，然後點擊 **生成變量**。
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![數據塊](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ 輸入變量的名稱。你可以選擇你是否希望你的變量可用於所有的精靈，或者只有這個精靈。按 **確定**。
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![創建變量](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ 一旦創建了變量，它將顯示在舞台上，或者您可以在“腳本”選項卡中取消選中該變量以隱藏它。
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![變量塊](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ 新塊將出現，並允許您更改變量的值。
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![變量塊](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
