@@ -1,15 +1,15 @@
-+ Diziler sekmesindeki **Veri**'nin üzerine, ardından **Bir Değişken Oluştur** seçeneğine tıklayın.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Veri blokları](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Değişkeninizin adını yazın. Değişkeninizin tüm kuklalar için mi yoksa sadece bu kukla için mi olacağını seçebilirsiniz. **Tamam** tuşuna basın.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
     ![Değişken oluşturun](images/create-variable.png)
 
-+ Değişkeni oluşturduktan sonra, Sahne'de gözükecektir. Gizlemek için Diziler sekmesinde değişkenin yan tarafındaki tiki kaldırabilirsiniz.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Değişken blokları](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Yeni bloklar ortaya çıkacak ve değişkenin değerini değiştirmenize izin verecektir.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Değişken blokları](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
