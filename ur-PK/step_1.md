@@ -1,15 +1,15 @@
-+ سکرپٹ ٹیب میں **ڈیٹا** پر کلک کریں، پھر **پر کلک کریں متغیر**بنائیں.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![ڈیٹا بلاکس](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ اپنے متغیر کے نام میں ٹائپ کریں. آپ یہ منتخب کرسکتے ہیں کہ آیا آپ چاہتے ہیں کہ آپ اپنے متغیروں کے تمام افواج کے لئے دستیاب ہو یا صرف اس کے سپرے. **ٹھیک ہے دبائیں**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![متغیر بنائیں](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ ایک بار جب آپ نے متغیر بنائے ہیں تو، اسٹیج پر ظاہر کیا جائے گا، یا آپ اس کو چھپانے کیلئے سکرپٹ ٹیب میں متغیر کر سکتے ہیں.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![متغیر بلاکس](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ نئی بلاکس آپ کو متغیر کی قیمت کو تبدیل کرنے کے لئے پیش آئے گی اور آپ کی اجازت دے گی.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![متغیر بلاکس](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
