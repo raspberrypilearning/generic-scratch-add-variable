@@ -1,15 +1,15 @@
-+ Kliknite na **Údaj** na karte Skripty a potom kliknite na **Vytvoriť premennú**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Dátové bloky](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Zadajte názov premennej. Môžete si vybrať, či chcete, aby bola vaša premenná k dispozícii všetkým štetcom, alebo len tejto skriptke. Stlačte **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Vytvoriť premennú](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Akonáhle vytvoríte premennú, zobrazí sa v Stage, alebo ju môžete odstrániť na karte Skripty, aby ste ju skryli.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Variabilné bloky](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Zobrazia sa nové bloky a umožnia vám zmeniť hodnotu premennej.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Variabilné bloky](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
