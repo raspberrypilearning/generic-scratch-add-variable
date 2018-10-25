@@ -1,9 +1,9 @@
 ---
-title: Tambah pemboleh ubah dalam Gores
-hero_image: imej / banner.png
-description: Bagaimana untuk menambah pemboleh ubah dalam Gores
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: prototaip cc
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Buat pembolehubah
+    title: Create a variable
