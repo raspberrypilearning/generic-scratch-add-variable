@@ -1,15 +1,15 @@
-+ Klikk på **Data** i Skript-kategorien, og klikk deretter på **Gjør en variabel**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Datablokker](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Skriv inn navnet på variabelen din. Du kan velge om du vil at variabelen skal være tilgjengelig for alle sprites, eller til bare denne sprite. Trykk **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Opprett variabel](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Når du har opprettet variabelen, vil den bli vist på scenen, eller du kan slå av variabelen på Skript-fanen for å skjule den.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Variable blokker](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Nye blokker vises og lar deg endre verdien av variabelen.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Variable blokker](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
