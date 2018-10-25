@@ -1,15 +1,15 @@
-+ Кликните на **податак** на картици Скрипте, а затим кликните на **Маке а Вариабле**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Блокови података](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Унесите име своје варијабле. Можете одабрати да ли желите да ваша варијабла буде доступна свим спринтима или само овом сприту. Притисните **ОК**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Креирај варијаблу](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Када креирате варијаблу, она ће бити приказана на сцени или можете откачити варијаблу на картици Скрипте да бисте је сакрили.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Променљиви блокови](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Појавиће се нови блокови и дозволити вам да промените вредност варијабле.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Променљиви блокови](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
