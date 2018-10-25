@@ -1,7 +1,7 @@
 ---
-title: Ychwanegu newidyn yn Scratch
+title: Add a variable in Scratch
 hero_image: images/banner.png
-description: Sut i ychwanegu newidyn yn Scratch
+description: How to add a variable in Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Creu newidyn
+    title: Create a variable
