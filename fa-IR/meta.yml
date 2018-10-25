@@ -1,9 +1,9 @@
 ---
-title: یک متغیر را در Scratch اضافه کنید
-hero_image: images / banner.png
-description: چگونه یک متغیر را در Scratch اضافه کنیم
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: نمونه اولیه cc
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: یک متغیر ایجاد کنید
+    title: Create a variable
