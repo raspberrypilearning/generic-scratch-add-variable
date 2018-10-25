@@ -1,9 +1,9 @@
 ---
-title: Pridajte premennú v aplikácii Scratch
-hero_image: images / banner.png
-description: Ako pridať premennú v aplikácii Scratch
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: cc-prototyp
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Vytvorte premennú
+    title: Create a variable
