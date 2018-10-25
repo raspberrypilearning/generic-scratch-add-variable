@@ -1,9 +1,9 @@
 ---
-title: سکریچ میں ایک متغیر شامل کریں
-hero_image: تصاویر / banner.png
-description: سکریچ میں ایک متغیر اضافہ کیسے کریں
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: سی سی پروٹوٹائپ
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: متغیر بنائیں
+    title: Create a variable
