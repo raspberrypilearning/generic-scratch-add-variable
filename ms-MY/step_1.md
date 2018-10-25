@@ -1,15 +1,15 @@
-+ Klik pada **Data** dalam tab Skrip, kemudian klik **Buat Variabel**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Blok data](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Taipkan nama pemboleh ubah anda. Anda boleh memilih sama ada anda mahu pemboleh ubah anda boleh didapati untuk semua sprite, atau hanya untuk sprite ini. Tekan **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Buat pembolehubah](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Sebaik sahaja anda telah membuat pembolehubah, ia akan dipaparkan pada Peringkat, atau anda boleh mengalihkan pemboleh ubah dalam tab Skrip untuk menyembunyikannya.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Blok berubah](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Blok baru akan muncul dan membolehkan anda mengubah nilai pembolehubah.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Blok berubah](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
