@@ -1,15 +1,15 @@
-+ Клацніть по **Дані** на вкладці «Скрипти», потім натисніть **Зробити змінну**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Блоки даних](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Введіть ім'я вашої змінної. Ви можете вибрати, чи бажаєте ваша змінна бути доступною для всіх спрацьовувань, або тільки для цього спрайту. Натисніть **OK**.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Створити змінну](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Після того, як ви створите змінну, вона буде показана на сцені, або ви зможете вилучити змінну на вкладці «Скрипти», щоб сховати її.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Змінні блоки](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Нові блоки з'являться і дозволяють змінювати значення змінної.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Змінні блоки](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
