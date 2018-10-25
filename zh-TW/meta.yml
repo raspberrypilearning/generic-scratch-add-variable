@@ -1,9 +1,9 @@
 ---
-title: 在Scratch中添加一個變量
-hero_image: 圖片/ banner.png
-description: 如何在Scratch中添加一個變量
+title: Add a variable in Scratch
+hero_image: images/banner.png
+description: How to add a variable in Scratch
 original_url:
-theme: CC-原型
+theme: cc-prototype
 duration: 1
 curriculum:
 listed: false
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: 創建一個變量
+    title: Create a variable
