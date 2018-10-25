@@ -1,15 +1,15 @@
-+ Cliquez sur | 123_8_0_321 | Données | 123_9_1_321 | Dans l'onglet Scripts, cliquez sur | 123_8_2_321 | Make a Variable | 123_9_3_321 |.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Blocs de données](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Tapez le nom de votre variable. Vous pouvez choisir si vous souhaitez que votre variable soit disponible pour tous les sprites, ou uniquement pour cette image-objet. Appuyez sur | 123_8_0_321 | OK | 123_9_1_321 |.
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
-    ![Créer une variable](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Une fois que vous avez créé la variable, elle s'affiche sur la scène, ou vous pouvez la décocher dans l'onglet Scripts pour la masquer.
++ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
     
-    ![Blocs variables](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ De nouveaux blocs apparaîtront et vous permettront de changer la valeur de la variable.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Blocs variables](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
