@@ -1,15 +1,15 @@
-+ A Feladatok fülön kattints az **Adatok** elemre, majd kattints a **Változó létrehozása** gombra.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Adatblokkok](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Írd be a változó nevét. Kiválaszthatod, hogy a változó elérhető legyen-e minden szereplőnél, vagy csak ennél a szereplőnél. Nyomd meg az **OK** gombot.
++ Írd be a változó nevét. Kiválaszthatod, hogy a változó elérhető legyen-e minden szereplőnek, vagy csak ennek a szereplőnek. Nyomd meg az **OK** gombot.
     
     ![Változó létrehozása](images/create-variable.png)
 
-+ Miután létrehoztad a változót, megjelenik a játéktéren, de el is rejtheted a változót a Feladatok fülön a jelölőnégyzettel.
++ Miután létrehoztad a változót, megjelenik a játéktéren, de el is rejtheted a változót a Változók fülön a jelölőnégyzettel.
     
-    ![Változó blokkok](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Új blokkok jelennek meg, amelyekkel megváltoztathatod a változó értékét.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Változó blokkok](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
