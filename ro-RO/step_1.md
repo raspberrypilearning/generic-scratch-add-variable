@@ -1,15 +1,15 @@
-+ Faceți clic pe **Date** din tab-ul Scripturi, apoi faceți clic pe **Creează o Variabilă**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![Blocuri de date](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ Introduceți numele variabilei dvs. Puteți alege dacă doriți ca variabila dvs. să fie disponibilă pentru toate personajele sau doar pentru acest personaj. Apăsați **OK**.
++ Tastează numele variabilei tale. Poți alege ca variabila ta să fie accesibilă pentru toate personajele, sau doar pentru acest personaj. Apasă **OK**.
     
-    ![Creați o variabilă](images/create-variable.png)
+    ![Creează o variabilă](images/create-variable.png)
 
-+ Odată ce ați creat variabila, aceasta va fi afișată pe Scenă, sau puteți deselecta variabila din tab-ul Scripturi pentru a o ascunde.
++ Odată ce ai creat variabila, aceasta va fi afișată pe Scenă, sau poți deselecta variabila din tab-ul Cod pentru a o ascunde.
     
-    ![Blocuri de variabile](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ Vor apărea blocuri noi care vă vor permite să modificați valoarea variabilei.
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![Blocuri de variabile](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
