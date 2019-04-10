@@ -1,15 +1,15 @@
-+ Klicke auf **Daten** in der Registerkarte Skripte, klicke dann auf **Neue Variable**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
     ![Data blocks](images/data-blocks.png)
 
-+ Gib den Namen deiner Variablen ein. Du kannst auswählen, ob deine Variable für alle Figuren, oder nur für die ausgewählte Figur verfügbar sein soll. Klicke auf **OK**.
++ Gib den Namen von deiner Variablen ein. Du kannst wählen, ob die Variable für alle Figuren oder nur für diese Figur verfügbar sein soll. Drücke **OK**.
     
-    ![Create variable](images/create-variable.png)
+    ![Variable erstellen](images/create-variable.png)
 
-+ Nachdem du die Variable erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Variablen in der Registerkarte Skripte entfernst.
++ Nachdem du die Variable erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Variablen in der Registerkarte Code entfernst.
     
     ![Variable blocks](images/variable-show.png)
 
-+ Neue Blöcke erscheinen und erlauben dir, den Wert der Variablen zu ändern.
++ New blocks will appear and allow you to change the value of the variable.
     
     ![Variable blocks](images/variable-blocks.png)
