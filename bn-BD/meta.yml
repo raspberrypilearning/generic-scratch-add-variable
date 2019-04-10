@@ -1,7 +1,7 @@
 ---
-title: স্ক্র্যাচে একটি ভেরিয়েবল যোগ করুন
+title: Add a variable in Scratch
 hero_image: images/banner.png
-description: কিভাবে স্ক্র্যাচে একটি ভেরিয়েবল যোগ করতে হয়
+description: How to add a variable in Scratch
 original_url:
 theme: cc-prototype
 duration: 1
@@ -13,4 +13,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: একটি ভেরিয়েবল তৈরি করুন
+    title: Create a variable
