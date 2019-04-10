@@ -1,8 +1,8 @@
-+ Klik op **Data** in het tabblad Scripts en klik vervolgens op **Maak een variabele**.
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
     ![Data blocks](images/data-blocks.png)
 
-+ Typ de naam van je variabele in. Je kunt kiezen of je wilt dat jouw variabele voor alle sprites beschikbaar is, of alleen voor deze sprite. Druk op **OK**.
++ Typ de naam van je variabele in. Je kunt kiezen of je wilt dat je variabele beschikbaar is voor alle sprites of alleen voor deze sprite. Klik op **OK**.
     
     ![Create variable](images/create-variable.png)
 
@@ -10,6 +10,6 @@
     
     ![Variable blocks](images/variable-show.png)
 
-+ Er verschijnen nieuwe blokken waarmee je de waarde van de variabele kunt wijzigen.
++ New blocks will appear and allow you to change the value of the variable.
     
     ![Variable blocks](images/variable-blocks.png)
