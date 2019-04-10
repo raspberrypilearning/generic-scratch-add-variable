@@ -1,15 +1,15 @@
-+ [スクリプト]タブで **データ** をクリックし、 **変数を作る** をクリックします。
++ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
     
-    ![データブロック](images/data-blocks.png)
+    ![Data blocks](images/data-blocks.png)
 
-+ 変数の名前を入力します。全てのスプライトが変数を使用するか、このスプライトのみかを選択できます。 **OK** を押します。
++ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
     
     ![変数を作成する](images/create-variable.png)
 
 + 変数の作成後、その変数がステージに表示されますが、[スクリプト]タブで変数の設定を解除すると隠すことができます。
     
-    ![変数ブロック](images/variable-show.png)
+    ![Variable blocks](images/variable-show.png)
 
-+ 新しいブロックが表示され、変数の値を変更できます。
++ New blocks will appear and allow you to change the value of the variable.
     
-    ![変数ブロック](images/variable-blocks.png)
+    ![Variable blocks](images/variable-blocks.png)
