@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ انقر فوق **البيانات** في علامة تبويب النصوص البرمجية، ثم انقر فوق **إنشاء متغير**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![قوالب البيانات](images/data-blocks.png)
 
-+ قم بكتابة اسم للمتغير. يمكنك اختيار ما إذا كنت تريد هذا المتغير أن يكون متاح لجميع الكائنات، أو فقط لهذا المتغير. اضغط على **موافق**.
++ اكتب اسم المتغير الخاص بك. يمكنك اختيار ما إذا كنت تريد أن يكون المتغير الخاص بك متاحًا لجميع الكائنات، أو لهذا الكائن فقط. اضغط على **موافق**.
     
     ![إنشاء متغير](images/create-variable.png)
 
 + بمجرد إنشاء المتغير، سيظهر على المنصة، أو يمكنك إلغاء تحديد المتغير من علامة تبويب النصوص البرمجية لإخفائه.
     
-    ![Variable blocks](images/variable-show.png)
+    ![قوالب المتغير](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ ستظهر قوالب جديدة تسمح لك بتغيير قيمة المتغير.
     
-    ![Variable blocks](images/variable-blocks.png)
+    ![قوالب المتغير](images/variable-blocks.png)
