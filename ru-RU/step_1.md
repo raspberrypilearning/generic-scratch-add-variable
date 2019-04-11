@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ На вкладке Скрипты щёлкните по кнопке **Данные**, и затем по кнопке **Создать переменную**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![Блоки данных](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Введите имя переменной. Можно выбрать, чтобы переменная была видна всем спрайтам или только одному спрайту. Нажмите **OK**.
     
     ![Создание переменной](images/create-variable.png)
 
 + После создания переменной, она будет отображаться в рабочей области. Также можно спрятать (убрать) эту переменную -- для этого нужно убрать галочку (V) во вкладке "Скрипты".
     
-    ![Variable blocks](images/variable-show.png)
+    ![Блоки переменной](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Появятся новые блоки которые позволят менять значение данной переменной.
     
-    ![Variable blocks](images/variable-blocks.png)
+    ![Блоки переменной](images/variable-blocks.png)
