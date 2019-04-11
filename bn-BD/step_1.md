@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ স্ক্রিপ্ট ট্যাবের **Data** -তে ক্লিক করুন, এরপর **Make a Variable** -এ ক্লিক করুন।
     
     ![Data blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ আপনার ভেরিয়েবলের নাম দিন। ভেরিয়েবলটি সব স্প্রাইটের জন্য কার্যকরী হবে অথবা শুধু এই একটি স্প্রাইটের জন্য কার্যকরী হবে তা নির্ধারন করতে পারেন। **OK** বাটনে ক্লিক করুন।
     
     ![Create variable](images/create-variable.png)
 
-+ Once you have created the variable, it will be displayed on the Stage, or you can untick the variable in the Scripts tab to hide it.
++ ভেরিয়েবল তৈরি করার পর তা স্টেজে দেখা যাবে, অথবা আপনি স্ক্রিপ্ট ট্যাবে টিক দিয়ে একে সরিয়ে রাখতে পারেন যেন স্টেজে দেখা না যায়।
     
     ![Variable blocks](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ নতুন ব্লক প্রদর্শিত হবে এবং এখান থেকে ভেরিয়েবলের মান পরিবর্তন করতে পারবেন।
     
     ![Variable blocks](images/variable-blocks.png)
