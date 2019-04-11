@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Haz clic en **Datos** en la pestaña Scripts, después haz clic en **Crear una Variable**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![Data Blocks](images/data-blocks.png)
 
-+ Escribe el nombre de tu variable. Puedes elegir si quieres que tu variable esté disponible para todos los objetos o solo para este objeto. Pulsa **Aceptar**.
++ Escribe el nombre de tu variable. Puedes elegir si deseas que tu variable esté disponible para todos los sprites o solo para este sprite. Presiona **OK**.
     
-    ![Crear una variable](images/create-variable.png)
+    ![Create variable](images/create-variable.png)
 
-+ Cuando hayas creado la variable se mostrará en el escenario, o puedes desmarcar la variable en la pestaña Código para ocultarla.
++ Cuando hayas creado la variable se mostrará en el escenario, o puedes desmarcar la variable en la pestaña de Scripts para ocultarla.
     
     ![Variable blocks](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Aparecerán nuevos bloques y podrás cambiar el valor de la variable.
     
     ![Variable blocks](images/variable-blocks.png)
