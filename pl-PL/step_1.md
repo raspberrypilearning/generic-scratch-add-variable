@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Kliknij **Dane** na karcie Skrypty, a następnie kliknij **Utwórz zmienną**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![Bloki danych](images/data-blocks.png)
 
-+ Wpisz nazwę swojej zmiennej. Możesz wybrać, czy chcesz, aby zmienna była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
++ Wpisz nazwę swojej zmiennej. Możesz wybrać, czy chcesz, aby zmienna była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Naciśnij **OK**.
     
-    ![Stwórz zmienną](images/create-variable.png)
+    ![Utwórz zmienną](images/create-variable.png)
 
-+ Po utworzeniu zmiennej zostanie ona wyświetlona na planszy. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
++ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
     
-    ![Variable blocks](images/variable-show.png)
+    ![Bloki zmiennej](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Nowe bloki pojawią się i pozwolają ci zmienić wartość zmiennej.
     
-    ![Variable blocks](images/variable-blocks.png)
+    ![Bloki zmiennej](images/variable-blocks.png)
