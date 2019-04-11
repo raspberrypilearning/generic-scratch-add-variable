@@ -1,8 +1,8 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Klik **Data** pada tab Scripts, lalu klik **Buat sebuah Variabel**.
     
     ![Data blocks](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Ketik nama variabel Kamu. Kamu dapat memilih apakah Kamu ingin variabel Kamu tersedia untuk semua sprite, atau hanya sprite ini saja. Tekan **OK**.
     
     ![Buat variabel](images/create-variable.png)
 
@@ -10,6 +10,6 @@
     
     ![Variable blocks](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Blok baru akan muncul dan memungkinkan Kamu untuk mengubah nilai variabel.
     
     ![Variable blocks](images/variable-blocks.png)
