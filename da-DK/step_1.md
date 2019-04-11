@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Klik på **Data** i fanen Scripts og klik derefter på **Lav en variabel**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![Datablokke](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Indtast navnet på din variabel. Du kan vælge, om du vil have din variabel tilgængelig for alle sprites eller kun denne sprite. Tryk på **OK**.
     
     ![Opret variabel](images/create-variable.png)
 
 + Når du har oprettet variablen, vises den på scenen, eller du kan afmarkere variablen på fanen Scripts for at skjule den.
     
-    ![Variable blocks](images/variable-show.png)
+    ![Variable-blokke](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ Nye blokke vises og giver dig mulighed for at ændre værdien af ​​variablen.
     
-    ![Variable blocks](images/variable-blocks.png)
+    ![Variable-blokke](images/variable-blocks.png)
