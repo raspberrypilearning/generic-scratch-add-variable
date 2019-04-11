@@ -1,15 +1,15 @@
-+ Click on **Data** in the Scripts tab, then click on **Make a Variable**.
++ Clique sur **Données** dans l'onglet Scripts puis clique sur **Créer une variable**.
     
-    ![Data blocks](images/data-blocks.png)
+    ![Blocs de données](images/data-blocks.png)
 
-+ Type in the name of your variable. You can choose whether you would like your variable to be available to all sprites, or to only this sprite. Press **OK**.
++ Tape le nom de ta variable. Tu peux choisir si tu veux que ta variable soit disponible pour tous les lutins, ou uniquement pour ce lutin. Appuye sur **Ok**.
     
     ![Créer une variable](images/create-variable.png)
 
 + Une fois que tu as créé la variable, elle s'affiche sur la scène, ou tu peux la décocher dans l'onglet Scripts pour la masquer.
     
-    ![Variable blocks](images/variable-show.png)
+    ![Blocs pour les variables](images/variable-show.png)
 
-+ New blocks will appear and allow you to change the value of the variable.
++ De nouveaux blocs apparaîtront et te permettront de changer la valeur de la variable.
     
-    ![Variable blocks](images/variable-blocks.png)
+    ![Blocs pour les variables](images/variable-blocks.png)
